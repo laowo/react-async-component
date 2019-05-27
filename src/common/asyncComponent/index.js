@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 /**
  * 创建一个异步组件
- * author: 雷佳斌
+ * author: Lei
  */
 export default function asyncComponent({ loader, loading }) {
     class AsyncComponent extends Component{
